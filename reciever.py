@@ -1,7 +1,7 @@
 from azure.storage.queue import QueueClient
 
 # Your storage account's connection string
-connection_string = "DefaultEndpointsProtocol=https;AccountName=cloudrisedevaccount;AccountKey=7ipIxl1h4LgKm8j1ZqpJ3keWmUmFVOMSf70f6UtP0coujQ0VHkFdZou+nJeuFZVpA5INHBS1Zc2L+AStpFxQCA==;EndpointSuffix=core.windows.net"
+connection_string = ""
 
 # The name of your Azure Queue
 queue_name = "cloudrisedev-messages-queue"
